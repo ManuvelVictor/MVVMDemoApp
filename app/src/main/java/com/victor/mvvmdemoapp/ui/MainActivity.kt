@@ -1,7 +1,8 @@
-package com.victor.mvvmdemoapp
+package com.victor.mvvmdemoapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.victor.mvvmdemoapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
